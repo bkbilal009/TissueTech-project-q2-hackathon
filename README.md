@@ -29,7 +29,7 @@ short_description: "Real-time clinical telemetry analysis ecosystem utilizing Ll
 - 📡 **Bedside Telemetry Dashboard:** [Launch Space](https://huggingface.co/spaces/bkbilal09/neurotech-bedside-rag)
 
 ### 👥 The Neurotech Hackathon Crew
-- 🛠️ **Muhammad Bilal (Lead):** [GitHub](https://github.com/bkbilal09) | [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-dev/)
+- 🛠️ **Muhammad Bilal :** [GitHub](https://github.com/bkbilal09) | [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-dev/)
 - 🔬 **Yumna:** [@yumna0010](https://github.com/yumna0010)
 - ⚡ **Anthony Gait:** [@anth0nygait7](https://github.com/anth0nygait7)
 - 🩺 **Dr. Mohamed Atef:** [@dr_mohamed_atef_official](https://github.com/dr_mohamed_atef_official)
