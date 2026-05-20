@@ -36,24 +36,6 @@ short_description: "Real-time clinical telemetry analysis ecosystem utilizing Ll
 
 ---
 
-## 🏗️ Technical Architecture & Dataflow
-
-
-
-The system implements a strict automated data mapping pipeline:
-* **Input:** Raw telemetry (Pressure, Temperature, Moisture).
-* **Process:** Multi-parameter Risk Index calculation ($RI$).
-* **Output:** Context-injected AI medical reports via RAG.
-
-## 📂 Production Codebase Directory Map
-
-```text
-neurotech-ulcer-rag/
-├── vortex-clinical-assistant/  # Reasoning Engine
-└── bedside-telemetry-rag/      # Simulation Dashboard
-
-
-
 
 ## 🏗️ Technical Architecture & Dataflow
 
