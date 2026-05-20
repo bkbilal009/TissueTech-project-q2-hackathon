@@ -1,3 +1,4 @@
+
 ---
 title: "Neurotech Ulcer RAG: Autonomous Bedside Telemetry & Clinical Intelligence Ecosystem"
 emoji: "🏥"
@@ -13,15 +14,37 @@ short_description: "Real-time clinical telemetry analysis ecosystem utilizing Ll
 
 > **"Synthesizing Biomedical Telemetry, Synchronizing Multi-Parameter Risk Indexing, Automating Bedside Patient Care."**
 > 
-> **Neurotech Ulcer RAG** is an enterprise-grade, highly decoupled Clinical Decision Support System (CDSS) architected and built during the 72-Hour Research Hackathon. Designed explicitly for resource-constrained, high-density public healthcare environments, this cognitive ecosystem coordinates advanced Large Language Models via **Groq LPU** acceleration and local semantic knowledge retrieval (RAG). It dynamically ingests real-time multi-modal streaming data from an affordable, intelligent hospital mattress matrix—predicting, tracking, and neutralizing life-threatening pressure ulcers (bedsores) before visible dermal breakdown or deep tissue damage occurs.
+> **Neurotech Ulcer RAG** is an enterprise-grade, highly decoupled Clinical Decision Support System (CDSS) built during the 72-Hour Research Hackathon. Designed for high-density healthcare environments, this cognitive ecosystem coordinates advanced LLMs via **Groq LPU** acceleration and local semantic knowledge retrieval (RAG) to process real-time multi-modal streaming data from an affordable hospital mattress matrix.
 
 ![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gradio](https://img.shields.io/badge/UI_Framework-Gradio_v5.0+-FF5722?style=for-the-badge&logo=gradio&logoColor=white)
 ![Groq](https://img.shields.io/badge/Inference-Groq_Cloud_LPU-f3d122?style=for-the-badge)
 ![Llama 3.3](https://img.shields.io/badge/Model-Llama_3.3_70B-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
+
+## 🔗 Quick Access & Collaborative Profiles
+
+### 🚀 Production Deployments (Hugging Face)
+- 🧠 **Vortex Clinical Assistant:** [Launch Space](https://huggingface.co/spaces/bkbilal09/vortex-clinical-ai)
+- 📡 **Bedside Telemetry Dashboard:** [Launch Space](https://huggingface.co/spaces/bkbilal09/neurotech-bedside-rag)
+
+### 👥 The Neurotech Hackathon Crew
+- 🛠️ **Muhammad Bilal (Lead):** [GitHub](https://github.com/bkbilal09) | [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-dev/)
+- 🔬 **Yumna:** [@yumna0010](https://github.com/yumna0010)
+- ⚡ **Anthony Gait:** [@anth0nygait7](https://github.com/anth0nygait7)
+- 🩺 **Dr. Mohamed Atef:** [@dr_mohamed_atef_official](https://github.com/dr_mohamed_atef_official)
+
+---
+
+## 🏗️ Technical Architecture & Dataflow
+
+
+
+The system implements a strict automated data mapping pipeline:
+* **Input:** Raw telemetry (Pressure, Temperature, Moisture).
+* **Process:** Multi-parameter Risk Index calculation ($RI$).
+* **Output:** Context-injected AI medical reports via RAG.
 
 ## 🔗 Live Interactive Production Deployments
 
