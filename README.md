@@ -13,7 +13,7 @@ short_description: "Real-time clinical telemetry analysis ecosystem utilizing Ll
 
 > **"Synthesizing Biomedical Telemetry, Synchronizing Multi-Parameter Risk Indexing, Automating Bedside Patient Care."**
 > 
-> **Neurotech Ulcer RAG** is a production-ready, highly decoupled Clinical Decision Support System (CDSS) architected by **Muhammad Bilal**. Built specifically for resource-constrained healthcare environments, this cognitive ecosystem coordinates advanced Large Language Models via **Groq LPU** inference and local semantic knowledge retrieval (RAG) to process real-time multi-modal streaming data from an affordable hospital mattress matrix, predicting and preventing life-threatening pressure ulcers (bedsores) before visible dermal breakdown occurs.
+> **Neurotech Ulcer RAG** is an enterprise-grade, highly decoupled Clinical Decision Support System (CDSS) architected and built during the 72-Hour Research Hackathon. Designed explicitly for resource-constrained, high-density public healthcare environments, this cognitive ecosystem coordinates advanced Large Language Models via **Groq LPU** acceleration and local semantic knowledge retrieval (RAG). It dynamically ingests real-time multi-modal streaming data from an affordable, intelligent hospital mattress matrix—predicting, tracking, and neutralizing life-threatening pressure ulcers (bedsores) before visible dermal breakdown or deep tissue damage occurs.
 
 ![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gradio](https://img.shields.io/badge/UI_Framework-Gradio_v5.0+-FF5722?style=for-the-badge&logo=gradio&logoColor=white)
@@ -25,16 +25,16 @@ short_description: "Real-time clinical telemetry analysis ecosystem utilizing Ll
 
 ## 🔗 Live Interactive Production Deployments
 
-The complete clinical ecosystem is broken down into two distinct, production-tested software platforms hosted live on Hugging Face Spaces with custom cyber-luxe layouts:
+The complete clinical intelligence network is deployed across two specialized, synchronized software environments hosted live on Hugging Face Spaces:
 
-* **🧠 Module 1: Vortex Clinical Assistant:** [🚀 Launch Space](https://huggingface.co/spaces/bkbilal09/vortex-clinical-ai) — Deep Neon Cyber-Luxe Reasoning Bot
-* **📡 Module 2: Bedside Telemetry RAG Dashboard:** [🚀 Launch Space](https://huggingface.co/spaces/bkbilal09/neurotech-bedside-rag) — Real-Time Hardware Emulation Matrix
+* **🧠 Module 1: Vortex Clinical Assistant:** [🚀 Launch Space](https://huggingface.co/spaces/bkbilal09/vortex-clinical-ai) — Deep Neon Cyber-Luxe Core Reasoning Bot.
+* **📡 Module 2: Bedside Telemetry RAG Dashboard:** [🚀 Launch Space](https://huggingface.co/spaces/bkbilal09/neurotech-bedside-rag) — Real-Time Hardware Emulation Matrix.
 
 ---
 
 ## 🏗️ Technical Architecture & Computational Dataflow
 
-Unlike standard, generic chat interfaces that rely on basic user prompts, this system maps live variables from a physical/simulated mattress layout directly into peer-reviewed biomedical research indices before triggering LLM generation pathways.
+Unlike generic, consumer-grade large language wrappers constrained by static training data, this system implements a strict automated data mapping pipeline. The local inference loop intercepts incoming raw telemetry, structures it, and matches it with peer-reviewed biomedical texts.
 
 ```text
                ┌────────────────────────────────────────┐
@@ -66,3 +66,14 @@ Unlike standard, generic chat interfaces that rely on basic user prompts, this s
 └──────────────────┬──────────────────┘               └──────────────────▲──────────────────┘
                    │                                                     │
                    └─────────────── [Context Handshake] ─────────────────┘
+
+
+neurotech-ulcer-rag/
+├── README.md
+├── vortex-clinical-assistant/
+│   ├── app.py
+│   └── requirements.txt
+└── bedside-telemetry-rag/
+    ├── app.py
+    └── requirements.txt
+
