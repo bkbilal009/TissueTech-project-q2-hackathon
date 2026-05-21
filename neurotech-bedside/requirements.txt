@@ -1,2 +1,0 @@
-requests
-gradio>=5.0.0
