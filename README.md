@@ -1,5 +1,5 @@
 ---
-title: "Neurotech Ulcer RAG: Autonomous Bedside Telemetry & Clinical Intelligence Ecosystem"
+title: "TissueTech Ulcer RAG: Autonomous Bedside Telemetry & Clinical Intelligence Ecosystem"
 emoji: "🏥"
 colorFrom: "cyan"
 colorTo: "purple"
@@ -9,11 +9,11 @@ license: "mit"
 short_description: "Real-time clinical telemetry analysis ecosystem utilizing Llama 3.3 and Groq Cloud LPU framework."
 ---
 
-# 🏥 Neurotech Ulcer RAG: Autonomous Bedside Telemetry & Clinical Intelligence Ecosystem
+# 🏥 TissueTech Ulcer RAG: Autonomous Bedside Telemetry & Clinical Intelligence Ecosystem
 
 > **"Synthesizing Biomedical Telemetry, Synchronizing Multi-Parameter Risk Indexing, Automating Bedside Patient Care."**
 > 
-> **Neurotech Ulcer RAG** is an enterprise-grade, highly decoupled Clinical Decision Support System (CDSS) built during the 72-Hour Research Hackathon. Designed for high-density healthcare environments, this cognitive ecosystem coordinates advanced LLMs via **Groq LPU** acceleration and local semantic knowledge retrieval (RAG) to process real-time multi-modal streaming data from an affordable hospital mattress matrix.
+> **TissueTech Ulcer RAG** is an enterprise-grade, highly decoupled Clinical Decision Support System (CDSS) built during the 72-Hour Research Hackathon. Designed for high-density healthcare environments, this cognitive ecosystem coordinates advanced LLMs via **Groq LPU** acceleration and local semantic knowledge retrieval (RAG) to process real-time multi-modal streaming data from an affordable hospital mattress matrix.
 
 ![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gradio](https://img.shields.io/badge/UI_Framework-Gradio_v5.0+-FF5722?style=for-the-badge&logo=gradio&logoColor=white)
@@ -26,9 +26,9 @@ short_description: "Real-time clinical telemetry analysis ecosystem utilizing Ll
 
 ### 🚀 Production Deployments (Hugging Face)
 - 🧠 **Vortex Clinical Assistant:** [Launch Space](https://huggingface.co/spaces/bkbilal09/vortex-clinical-ai)
-- 📡 **Bedside Telemetry Dashboard:** [Launch Space](https://huggingface.co/spaces/bkbilal09/neurotech-bedside-rag)
+- 📡 **Bedside Telemetry Dashboard:** [Launch Space](https://huggingface.co/spaces/bkbilal09/TissueTech-Bedside-RAG)
 
-### 👥 The Neurotech Hackathon Crew
+### 👥 The TissueTech Hackathon Crew
 - 🛠️ **Muhammad Bilal :** [GitHub](https://github.com/bkbilal09) | [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-dev/)
 - 🔬 **Yumna:** [@yumna0010](https://github.com/yumna0010)
 - ⚡ **Anthony Gait:** [@anth0nygait7](https://github.com/anth0nygait7)
@@ -36,10 +36,7 @@ short_description: "Real-time clinical telemetry analysis ecosystem utilizing Ll
 
 ---
 
-
 ## 🏗️ Technical Architecture & Dataflow
-
-
 
 The system implements a strict automated data mapping pipeline:
 * **Input:** Raw telemetry (Pressure, Temperature, Moisture).
@@ -51,7 +48,7 @@ The system implements a strict automated data mapping pipeline:
 The complete clinical intelligence network is deployed across two specialized, synchronized software environments hosted live on Hugging Face Spaces:
 
 * **🧠 Module 1: Vortex Clinical Assistant:** [🚀 Launch Space](https://huggingface.co/spaces/bkbilal09/vortex-clinical-ai) — Deep Neon Cyber-Luxe Core Reasoning Bot.
-* **📡 Module 2: Bedside Telemetry RAG Dashboard:** [🚀 Launch Space](https://huggingface.co/spaces/bkbilal09/neurotech-bedside-rag) — Real-Time Hardware Emulation Matrix.
+* **📡 Module 2: Bedside Telemetry RAG Dashboard:** [🚀 Launch Space](https://huggingface.co/spaces/bkbilal09/TissueTech-Bedside-RAG) — Real-Time Hardware Emulation Matrix.
 
 ---
 
@@ -73,30 +70,29 @@ Unlike generic, consumer-grade large language wrappers constrained by static tra
                                    │
                                    ▼
                ┌────────────────────────────────────────┐
-               │   Semantic Context Engine (RAG Hub)    │
+               │    Semantic Context Engine (RAG Hub)   │
                │ (Maps Alert Zones to Research Context) │
                └───────────────────┬────────────────────┘
                                    │
                                    ▼
         ┌──────────────────────────┴──────────────────────────┐
         ▼                                                     ▼
-┌─────────────────────────────────────┐               ┌─────────────────────────────────────┐
-│   🧠 VORTEX CLINICAL ASSISTANT      │               │   📡 BEDSIDE TELEMETRY RAG NODE     │
-├─────────────────────────────────────┤               ├─────────────────────────────────────┤
-│ • Task: Complex Clinical Reasoning  │               │ • Task: Real-Time Sensor Processing │
-│ • Target: Pathophysiology Modeling  │               │ • Target: Tactical Nursing Alerts   │
-│ • Context: Background & Literature   │               │ • Context: Hardware Array Layout    │
-└──────────────────┬──────────────────┘               └──────────────────▲──────────────────┘
-                   │                                                     │
+┌─────────────────────────────────────┐      ┌─────────────────────────────────────┐
+│    🧠 VORTEX CLINICAL ASSISTANT     │      │    📡 BEDSIDE TELEMETRY RAG NODE    │
+├─────────────────────────────────────┤      ├─────────────────────────────────────┤
+│ • Task: Complex Clinical Reasoning  │      │ • Task: Real-Time Sensor Processing │
+│ • Target: Pathophysiology Modeling  │      │ • Target: Tactical Nursing Alerts   │
+│ • Context: Background & Literature  │      │ • Context: Hardware Array Layout    │
+└──────────────────┬──────────────────┘      └──────────────────▲──────────────────┘
+                   │                                            │
                    └─────────────── [Context Handshake] ─────────────────┘
 
 
-neurotech-ulcer-rag/
+TissueTech-Ulcer-RAG/
 ├── README.md
 ├── vortex-clinical-assistant/
 │   ├── app.py
 │   └── requirements.txt
-└── bedside-telemetry-rag/
+└── tissuetech-bedside/
     ├── app.py
     └── requirements.txt
-
