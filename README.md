@@ -29,10 +29,10 @@ short_description: "Real-time clinical telemetry analysis ecosystem utilizing Ll
 - 📡 **Bedside Telemetry Dashboard:** [Launch Space](https://huggingface.co/spaces/bkbilal09/TissueTech-Bedside-RAG)
 
 ### 👥 The TissueTech Hackathon Crew
-- 🛠️ **Muhammad Bilal :** [GitHub](https://github.com/bkbilal09) | [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-dev/)
-- 🔬 **Yumna:** [@yumna0010](https://github.com/yumna0010)
-- ⚡ **Anthony Gait:** [@anth0nygait7](https://github.com/anth0nygait7)
-- 🩺 **Dr. Mohamed Atef:** [@dr_mohamed_atef_official](https://github.com/dr_mohamed_atef_official)
+- 🛠️ **Muhammad Bilal:** [GitHub](https://github.com/bkbilal09) | [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-dev/)
+- 🔬 **Mohamed Atef Elasalouty (Yumna / @dr_mohamed_atef_official):** [@yumna0010](https://github.com/yumna0010) | [@dr_mohamed_atef_official](https://github.com/dr_mohamed_atef_official) | [LinkedIn](https://www.linkedin.com/in/mohamed-elasalouty-med/)
+- ⚡ **Anthony Gaitanis (@anth0nygait7):** [@anth0nygait7](https://github.com/anth0nygait7) | [LinkedIn](https://www.linkedin.com/in/anthony-gaitanis-712ag/)
+- 🩺 **Zaheen:** [LinkedIn](https://www.linkedin.com/in/zaheen-5149292a6/)
 
 ---
 
@@ -77,15 +77,15 @@ Unlike generic, consumer-grade large language wrappers constrained by static tra
                                    ▼
         ┌──────────────────────────┴──────────────────────────┐
         ▼                                                     ▼
-┌─────────────────────────────────────┐      ┌─────────────────────────────────────┐
-│    🧠 VORTEX CLINICAL ASSISTANT     │      │    📡 BEDSIDE TELEMETRY RAG NODE    │
-├─────────────────────────────────────┤      ├─────────────────────────────────────┤
-│ • Task: Complex Clinical Reasoning  │      │ • Task: Real-Time Sensor Processing │
-│ • Target: Pathophysiology Modeling  │      │ • Target: Tactical Nursing Alerts   │
-│ • Context: Background & Literature  │      │ • Context: Hardware Array Layout    │
-└──────────────────┬──────────────────┘      └──────────────────▲──────────────────┘
-                   │                                            │
-                   └─────────────── [Context Handshake] ─────────────────┘
+┌─────────────────────────────────────┐       ┌─────────────────────────────────────┐
+│    🧠 VORTEX CLINICAL ASSISTANT     │       │     📡 BEDSIDE TELEMETRY RAG NODE   │
+├─────────────────────────────────────┤       ├─────────────────────────────────────┤
+│ • Task: Complex Clinical Reasoning  │       │ • Task: Real-Time Sensor Processing │
+│ • Target: Pathophysiology Modeling  │       │ • Target: Tactical Nursing Alerts   │
+│ • Context: Background & Literature  │       │ • Context: Hardware Array Layout    │
+└──────────────────┬──────────────────┘       └──────────────────▲──────────────────┘
+                   │                                             │
+                   └─────────────── [Context Handshake] ─────────┘
 
 
 TissueTech-Ulcer-RAG/
